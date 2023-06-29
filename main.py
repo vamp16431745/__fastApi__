@@ -63,4 +63,6 @@ async def read_item(time:str = datetime.now().strftime("%Y%m%d %H:%M:%S"),light:
         "Temperature":temperature
     }
     
+
+    
     
